@@ -4,8 +4,6 @@ import 'package:whatsapp/Screens/callscreen.dart';
 import 'package:whatsapp/Screens/chatscreen.dart';
 import 'package:whatsapp/Screens/statusScreen.dart';
 
-import 'area.dart';
-
 class HomePage extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
